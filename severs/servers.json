@@ -113,10 +113,7 @@
     {
       "name": "mysever",
       "address": "https://my-anisette-v3-server-e2v8.onrender.com",
-      "kind": 0,
-      "headers": {
-      "X-MMe-Client-Info": "<PC> <Windows;6.2(0,0);9200> <com.apple.AuthKit/1 (com.apple.iTunes/12.12.4.1)>",
-      "User-Agent": "akd/1.0 CFNetwork/808.1.4"
+      "kind": 0
       }
     }
   ],
